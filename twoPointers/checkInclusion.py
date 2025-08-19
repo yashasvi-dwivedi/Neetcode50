@@ -40,4 +40,4 @@ if __name__ == "__main__":
     s1 = input()
     print("Enter second string:")
     s2 = input()
-    print("Output: ", Solution.checkInclusion(s1, s2))
+    print("Output:", Solution.checkInclusion(s1, s2))
